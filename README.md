@@ -3,10 +3,9 @@ MyReads  is a simple management web application that help you manage your readin
 - Currently Reading
 - Want to Read
 - Read
+  
 And also have some book informations like title and author.
 Special, It support you seach books base on title and author information. 
-
-Of course, you are free to start this project from scratch if you wish! Just be sure to use [Create React App](https://reactjs.org/docs/create-a-new-react-app.html) to bootstrap the project.
 
 ## TL;DR
 # Deveploping 
